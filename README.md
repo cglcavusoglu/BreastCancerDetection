@@ -1,0 +1,9 @@
+<img width="880" alt="Ekran Resmi 2024-01-07 19 13 44" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/46975f3d-3ec1-48d1-94b3-9e9e7e4bd994">
+<img width="875" alt="Ekran Resmi 2024-01-07 19 12 54" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/bc64b0c8-ac17-4762-9b60-e26ced1ff4e1">
+<img width="793" alt="Ekran Resmi 2024-01-07 14 34 58" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/2e6dd805-b66e-48b3-b562-c730775edf19">
+<img width="796" alt="Ekran Resmi 2024-01-07 03 06 11" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/a4d03af0-361c-463e-b299-52b15c7f3c64">
+<img width="227" alt="Ekran Resmi 2024-01-07 03 03 32" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/402ca8ac-64b7-4b97-8766-4ac134e8c8c3">
+<img width="796" alt="Ekran Resmi 2024-01-07 03 06 11" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/f33abcfe-1aaa-4fcf-b8e0-7ac72adb600e">
+<img width="643" alt="Ekran Resmi 2024-01-07 17 26 48" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/e8a9cebd-f4aa-4e9b-9519-3bf2ce4ee3fa">
+<img width="578" alt="Ekran Resmi 2024-01-07 14 59 23" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/469b094d-8613-409e-91da-a4d6804cfc6a">
+<img width="795" alt="Ekran Resmi 2024-01-07 14 51 15" src="https://github.com/cglcavusoglu/BreastCancerDetection/assets/73901104/12c4fa0c-c0cc-43ab-ba21-f86a6c03755c">
